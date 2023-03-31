@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SIC-Assembler-by-Javascript/static/css/main.98b41854.css",
+    "main.js": "/SIC-Assembler-by-Javascript/static/js/main.407cd1aa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SIC-Assembler-by-Javascript/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SIC-Assembler-by-Javascript/index.html",
+    "main.98b41854.css.map": "/SIC-Assembler-by-Javascript/static/css/main.98b41854.css.map",
+    "main.407cd1aa.js.map": "/SIC-Assembler-by-Javascript/static/js/main.407cd1aa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SIC-Assembler-by-Javascript/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b41854.css",
+    "static/js/main.407cd1aa.js"
+  ]
+}
